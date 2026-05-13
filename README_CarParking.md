@@ -79,9 +79,9 @@ A **Gradio link** will be generated — open it in your browser to use the syste
 
 ## 📌 Note on Model Weights
 
-The trained model file (`best.pt`) is **not included** in this repository due to file size limits. You can:
+The trained model file (`best.pt`) is **  included** in this repository . You can also:
 - Train your own YOLOv8 model on a parking dataset (e.g., PKLot dataset)
-- Or contact the author for the weights file
+
 
 ---
 
